@@ -5,7 +5,7 @@ GitHub: https://github.com/TerableCoder
 
 #module-updates Be notified when a module has been updated
 
-#request-modules Ask me to make a module
+#request-modules Ask me to make/edit a module
 
 #opcodes Ask for/Share opcodes
 
