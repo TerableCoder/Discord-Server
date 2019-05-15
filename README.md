@@ -9,8 +9,6 @@ GitHub: https://github.com/TerableCoder
 
 #opcodes Ask for/Share opcodes
 
-#share-modules Share modules/Ask for links to modules
-
 #help Help using a module
 
 #general Chat
